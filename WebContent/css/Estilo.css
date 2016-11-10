@@ -1,0 +1,16 @@
+@CHARSET "ISO-8859-1";
+
+
+
+.mi-boton-clase{
+	background-color: red;
+	color: yellow; 
+}
+
+.contenedor{
+	background-color: yellow;
+}
+
+.nuevo{
+	background-color: green;
+}
